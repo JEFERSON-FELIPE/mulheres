@@ -15,10 +15,10 @@
                 <a href="https://www.instagram.com/redemulheresquemarcam/" target="_blank">
                     <li class="inline-block p-[10px] w-[50px] h-[50px] "   >  <img src="/img/logotipo-do-instagram.png" alt=""></li>
                 </a>
-                <a href="https://www.facebook.com/Mulheres-que-Marcam-326273001635487/?paipv=0&eav=AfbHSiGB7lUrDhryWf9f9hJX0LV1jnRgNH74vXwRM71yGfdV_8ZZAfUs7q7owAffRGE&_rdr">
+                <a href="https://www.facebook.com/Mulheres-que-Marcam-326273001635487/?paipv=0&eav=AfbHSiGB7lUrDhryWf9f9hJX0LV1jnRgNH74vXwRM71yGfdV_8ZZAfUs7q7owAffRGE&_rdr" target="_blanck">
                     <li class="inline-block p-[10px] w-[50px] h-[50px] " >  <img src="/img/facebook.png" alt=""></li>
                 </a>
-                <a href="">
+                <a href="https://chat.whatsapp.com/BxwcQ1emcq14J0GwZ927IO" target="_blanck">
                     <li class="inline-block p-[10px] w-[50px] h-[50px] "> <img src="/img/whatsapp (7).png" alt=""></li>
                 </a>
             </ul>
@@ -27,7 +27,7 @@
 
             <!---->
 
-          <div id="imagem2" class="w-[100%] h-[350px]" >
+          <div id="imagem2" class="w-[100%] h-[350pxphp]" >
 
           </div>
 
@@ -48,21 +48,21 @@
         <section class="w-[100%] block ">
         <div id="inicio" class="w-[100%]   mt-[10%]  text-center  text-2xl "></div>
         <article class="w-[85%] mx-[6%]  inline-block flex justify-center">
-            <div id="imagem_1"  class="w-[520px] h-[350px]  inline-block border border-solid border-black rounded-lg mx-7 "> <p></p></div>
-            <div id="imagem_2" class="w-[520px] h-[350px] inline-block border border-solid border-black rounded-lg mx-7"><p></p></div>
-            <div id="imagem_3"  class="w-[520px] h-[350px]  inline-block border border-solid border-black rounded-lg mx-7"><p></p></div>
+            <div id="imagem_1"  class="w-[520px] h-[350px]  inline-block border border-solid border-black rounded-lg mx-7 transform hover:scale-110 transition-transform duration-300"> <p></p></div>
+            <div id="imagem_2" class="w-[520px] h-[350px] inline-block border border-solid border-black rounded-lg mx-7 transform hover:scale-110 transition-transform duration-300"><p></p></div>
+            <div id="imagem_3"  class="w-[520px] h-[350px]  inline-block border border-solid border-black rounded-lg mx-7 transform hover:scale-110 transition-transform duration-300"><p></p></div>
         </article>
 
-        <section class="w-[75%] mx-[15%] mt-[15%] inline-block flex justify-center ">
+        <section class="w-[75%] mx-[13%] mt-[15%] inline-block flex justify-center ">
 
 
             <div class="w-[45%] h-[30%] inline-block  float-left m-[20px]" >
                 <div id="caixa-texto"  class=" border border-white-500 border-2 rounded-[20px]  w-[450px] h-[250px] " >
                         <div class="ml-[40%] p-[15px]" > <img src="/img/whatsapp (7).png" alt=""></div>
                     <p class="text-xl text-white">
-                        Junte-se a nossa comunidade
+                        Participar do Grupo Aberto no WhatsApp
                         <br>
-                        <button id="botao-participar"> QUERO PARTICIPAR</button>
+                        <a href="https://chat.whatsapp.com/BxwcQ1emcq14J0GwZ927IO" target="_blanck"><button id="botao-participar"> QUERO PARTICIPAR</button></a>
 
                     </p>
 
