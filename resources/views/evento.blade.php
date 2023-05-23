@@ -39,7 +39,7 @@
             <!---->
             <!--video +texteo-->
           <section class="flex flex-col items-center text-center w-full">
-            <div class="w-[85%] bg-gray-100 rounded-lg p-8">
+            <div class="w-[100%] bg-gray-100 rounded-lg p-8">
               <div class="flex flex-col md:flex-row">
                 <div class="w-full md:w-1/2">
                   <div class="relative" style="padding-bottom: 85%;">
@@ -164,7 +164,7 @@
 
                 <div class="w-[100%] md:w-[40%] h-[30%] inline-block md:float-left md:m-[40px] mb-6 md:mb-0">
                   <div id="caixa-texto" class="border border-white-500 border-2 rounded-[20px] w-[450px] h-[250px]">
-                    <div class="ml-[40%] p-[15px]">
+                    <div class="ml-[5%] p-[15px]">
                       <img src="/img/whatsapp (7).png" alt="">
                     </div>
                     <p class="text-xl text-white">
