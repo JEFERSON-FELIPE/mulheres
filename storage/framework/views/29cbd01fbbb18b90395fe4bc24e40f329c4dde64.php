@@ -145,7 +145,7 @@
             <span class="font-bold text-2xl text-white">Aproveite nossa condição  super &nbsp;<span class="pr-20">especial!</span></span>
             <div class="flex justify-center mt-4">
               <button id="bt-int" class="bg-purple-700  hover:bg-purple-800 text-white font-bold py-4 px-5  rounded w-40 h-10 ">
-                Inscreva-se
+                <a href="https://sun.eduzz.com/1827710" target="_blanck">Inscreva-se</a>
               </button>
             </div>
           </div>
@@ -163,7 +163,7 @@
             <span class="font-bold text-2xl text-white">Participe do nosso grupo aberto de  &nbsp;<span class="pr-10">whatsapp!</span></span>
             <div class="flex justify-center mt-4">
               <button id="bt-int" class="bg-purple-800 hover:bg-purple-800 text-white font-bold py-2 px-4 rounded w-40 h-10">
-                Quero participar
+                <a href="https://chat.whatsapp.com/BxwcQ1emcq14J0GwZ927IO" target="_blanck">Quero participar</a>
               </button>
             </div>
           </div>
@@ -255,7 +255,7 @@
 
 
 
-<footer class="mt-[50%] text-center text-white">
+<footer class="mt-[40%] text-center text-white">
     Todos os direitos reservados a kasaroza
 </footer>
 
