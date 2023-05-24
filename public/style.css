@@ -6,16 +6,37 @@
 
 body
 {
-    background-image: url("/img/20bc2145-6169-4947-9f50-241f787a4ec3.jpg");
-    background-size: cover;
-    background-position:top center;
-    opacity: 0,5;
+    background: rgb(180,10,180);
+    background: linear-gradient(80deg, rgba(180,10,180,1) 7%, rgba(90,14,128,1) 47%, rgba(51,5,98,1) 100%);
+}
+#img-tema{
+    background-image: url('/img/WhatsApp Image 2023-05-17 at 13.35.58 (1).jpeg');
+    width: 100%;
+    height:1080px;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 #texto_em_breve{
     font-size: 50px;
 
 }
+#img-botao-inscreva{
+    border: solid 2px rgba(234, 172, 234, 0.869);
+    height: 700px;
+    background-color: rgb(53, 6, 53);
+
+}
+#img-bt{
+    background-image: url('/img/menor2.jpg');
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
 #imagem_1{
     background-image: url('/img/WhatsApp Image 2023-05-17 at 13.35.58 (1).jpeg');
     background-size: cover;
@@ -116,24 +137,49 @@ background-color: rgba(35, 35, 140, 0.25);
 
 }
 #botao-participar{
-    border: solid 2px rgba(77, 77, 242, 0.861);
-    background-color: rgb(53, 53, 166);
+
     padding: 15px;
     border-radius: 10px;
     margin-top: 10px;
 }
 
+#inscrever{
 
-footer
-{
-    font-size: 20px;
-    padding: 15px;
+    background-color: rgba(35, 35, 140, 0.25);
+    opacity: 0,2;
+    color: white;
+    text-shadow: 2px 2px 2px 2px black;
+    box-shadow:6px 6px 6px 6px black ;
+    text-align: center;
+
+
 }
-@media (min-width: 768px) {
-    img {
-      max-width: 80%;
-    }
-  }
+
+#bt-inscrever{
+    margin-top: 10%;
+    margin-left: 20%;
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+    background: rgba(38, 5, 38, 0.661);
+    background: radial-gradient(circle, rgba(38,5,38,1) 7%, rgba(48,10,67,0.9640231092436975) 47%, rgba(52,15,89,1) 100%);
+    background-color: rgba(35, 35, 140, 0.25);
+    opacity: 0,3;
+    color: white;
+    text-shadow: 2px 2px 2px 2px black;
+    box-shadow:6px 6px 6px 6px black ;
+    text-align: center;
+
+}
+#bt-int{
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+
+}
+
+
+
 
 
 
