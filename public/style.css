@@ -44,20 +44,20 @@ body
     border-radius: 100px;
     padding: 15px 30px;
     font-size: 14px;
-    border: solid 1px rgba(90,14,128,1);
+    border: 0px;
     text-transform: uppercase;
-    transition: 1s;
+    transition: 500ms;
 }
 
 #btn:hover{
-    background-color: rgba(90,14,128,1);
+    background-color: #da8623;
     color: #ffffff;
     border-radius: 100px;
     padding: 15px 30px;
     font-size: 14px;
-    border: solid 1px #ffffff;
+    border: 0px;
     text-transform: uppercase;
-    transition: 1s;
+    transition: 500ms;
 }
 
 #imagem_1{
