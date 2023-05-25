@@ -292,3 +292,4 @@
     </footer>
 </body>
 </html>
+<?php /**PATH C:\Users\gemen\OneDrive\Documentos\Projetos\mulheres\resources\views/evento.blade.php ENDPATH**/ ?>

@@ -34,8 +34,31 @@ body
     background-size: cover;
     background-position: center;
 }
+#fundo_cart{
+    background: linear-gradient(80deg, rgba(180,10,180,1) 7%, rgba(90,14,128,1) 47%, rgba(51,5,98,1) 100%);
+}
 
+#btn{
+    background-color: #ffffff;
+    color: rgba(90,14,128,1);
+    border-radius: 100px;
+    padding: 15px 30px;
+    font-size: 14px;
+    border: solid 1px rgba(90,14,128,1);
+    text-transform: uppercase;
+    transition: 1s;
+}
 
+#btn:hover{
+    background-color: rgba(90,14,128,1);
+    color: #ffffff;
+    border-radius: 100px;
+    padding: 15px 30px;
+    font-size: 14px;
+    border: solid 1px #ffffff;
+    text-transform: uppercase;
+    transition: 1s;
+}
 
 #imagem_1{
     background-image: url('/img/WhatsApp Image 2023-05-17 at 13.35.58 (1).jpeg');
@@ -108,10 +131,7 @@ body
 }
 
 #menu{
-    background-color: rgba(29, 29, 29, 0.33);
- color: white;
-
-
+    background: rgba(90,14,128,0.80);
 }
 section {
     text-align: center;
