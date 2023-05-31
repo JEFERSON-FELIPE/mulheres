@@ -143,17 +143,9 @@ background-color: rgba(35, 35, 140, 0.25);
     margin-top: 10px;
 }
 
-#inscrever{
-
-    background-color: rgba(35, 35, 140, 0.25);
-    opacity: 0,2;
-    color: white;
-    text-shadow: 2px 2px 2px 2px black;
-    box-shadow:6px 6px 6px 6px black ;
-    text-align: center;
 
 
-}
+
 
 #bt-inscrever{
     margin-top: 10%;

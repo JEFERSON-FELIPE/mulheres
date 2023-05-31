@@ -86,7 +86,7 @@
       </div>
       <div class="">
         <div id="programacao">
-          <p class="text-center text-4xl p-[20px]"><b>Confira a Programação na Integra</b></p>
+          <p class="text-center text-4xl p-[20px]"><b>Confira a Programação na Íntegra:</b></p>
         </div>
         <ul>
           <li class="text-black-600 mt-4 text-xl">⭐️ <b>Kênia Raissa</b> <br>
