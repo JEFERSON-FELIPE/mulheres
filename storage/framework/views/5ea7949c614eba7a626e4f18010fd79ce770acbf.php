@@ -110,76 +110,57 @@
     </div>
     </section>
 
-               <!---->
-
-                <!--programação-->
-<section class="flex text-left w-full ">
-    <div class="w-[100%] bg-gray-100 rounded-lg p-8 ">
-      <div class="flex items-center">
-      </div>
-      <div class="">
-        <div id="programacao">
-          <p class="text-center text-4xl p-[20px]"><b>Confira a Programação na Íntegra!</b></p>
-        </div>
-        <ul>
-          <li class="text-black-600 mt-4 text-xl">⭐️ <b>Kênia Raissa</b> <br>
-            Estrategista em Marcas Pessoais Femininas, Treinadora de Treinadores Globais e Empresária. <br>
-            PONTO DE CONVERGÊNCIA: O PODEROSO ENCONTRO DA SUA HISTÓRIA DE VIDA COM SEU PROPÓSITO.
-          </li>
-          <br>
-          <li class="text-black-600 mt-4 text-xl">⭐️ <b>Danielle Mafra</b> <br>
-            Executiva em ESG e atual Secretária Executiva do Município de Natal. <br>
-            FUTURO, TENDÊNCIAS E O NOSSO PAPEL NA NOVA ECONOMIA.
-          </li>
-          <br>
-          <li class="text-black-600 mt-4 text-xl">⭐️ <b>Katarina Alcântara</b> <br>
-            Personal Business, Mentora de Carreiras e Treinadora Comportamental. <br>
-            COMPETÊNCIAS INTERPESSOAIS QUE COLOCAM A MULHER CONTEMPORÂNEA EM POSIÇÃO DE DESTAQUE.
-          </li>
-          <br>
-          <li class="text-black-600 mt-4 text-xl">⭐️ <b>Laíse Trindade</b><br>
-            Nutricionista, Especialista em Neurociência aplicada ao Desenvolvimento Humano. <br>
-            PRODUTIVIDADE ESTRATÉGICA E ALTA PERFORMANCE NA VIDA E NOS NEGÓCIOS
-          </li>
-          <br>
-          <li class="text-black-600 mt-4 text-xl">⭐️ <b>Priscila Barros</b> <br>
-            Estrategista Digital e Mentora em Posicionamento Estratégico Digital.
-          </li>
-          <br>
-          <li class="text-black-600 mt-4 text-xl">⭐️ <b>Thaís Barbosa</b> <br>
-            Mentora e Treinadora de Experts, Especialista em Método, Narrativas e Criação de Produtos e Serviços Educacionais. <br>
-            COMO SUPERAR O MEDO DA EXPOSIÇÃO DIGITAL E TER A CORAGEM DE CRIAR UM POSICIONAMENTO AUTÊNTICO
-          </li>
-          <br>
-          <li class="text-black-600 mt-4 text-xl">⭐️ <b>Aline Chacon</b> <br>
-            Educadora e Mentora de Mulheres que buscam viver sua autenticidade. <br>
-            MULHER REAL E CONTEMPORÂNEA: LIBERTE-SE DE QUEM VOCÊ NÃO É PARA VIVER SUA VERDADEIRA IDENTIDADE.
-          </li>
-          <br>
-          <li class="text-black-600 mt-4 text-xl">⭐️ <b>Ísis Moreira</b> <br>
-            Treinadora de Negócios e Espiritualidade, com mais de 20 mil alunos treinados em Marketing Digital e Desenvolvimento Pessoal. <br>
-            DESENVOLVA INTENCIONALMENTE UMA EXISTÊNCIA DE ABUNDÂNCIA.
-          </li>
-          <br>
-          <p class="text-black-600 mt-4 text-xl">Venha fazer parte desse momento que irá marcar a história de muitas mulheres.</p>
-          <p class="text-black-600 mt-4 text-xl"><b>Vamos todas juntas!</b></p>
-        </ul>
-      </div>
-    </div>
-  </section>
-
-  <section id="f-bt" class=" text-center mr-[5%]">
-
-    <article>
-      <div class="text-center float-left p-[20px]">
-        <div id="bt-inscrever" class="flex items-center h-[100px]">
-          <img src="/img/Snapinsta.app_346393358_975309906833495_1154047554683507729_n_1080.jpg" alt="Imagem" class="rounded-full w-[120px] h-[120px] mr-4">
-          <div>
-            <span class="font-bold text-2xl text-white">Aproveite nossa condição  super &nbsp;<span class="pr-20">especial!</span></span>
-            <div class="flex justify-center mt-4">
-              <button id="bt-int" class="bg-purple-700  hover:bg-purple-800 text-white font-bold py-4 px-5  rounded w-40 h-10 ">
-                <a href="https://sun.eduzz.com/1827710" target="_blanck">Inscreva-se</a>
-              </button>
+    <!--programação-->
+    <section class="flex text-left w-full ">
+        <div class="w-[80%] mx-[10%] bg-gray-100 rounded-[30px] shadow-lg p-[60px]">
+            <div class="flex items-center"></div>
+            <div class="">
+                <div id="programacao">
+                <p class="text-center text-4xl p-[20px] uppercase"><b>Confira a Programação na Integra</b></p>
+                </div>
+                <ul>
+                <li class="text-black-600 mt-4 text-xl">⭐️ <b>Kênia Raissa</b> <br>
+                    Estrategista em Marcas Pessoais Femininas, Treinadora de Treinadores Globais e Empresária. <br>
+                    PONTO DE CONVERGÊNCIA: O PODEROSO ENCONTRO DA SUA HISTÓRIA DE VIDA COM SEU PROPÓSITO
+                </li>
+                <br>
+                <li class="text-black-600 mt-4 text-xl">⭐️ <b>Danielle Mafra</b> <br>
+                    Executiva em ESG e atual Secretária Executiva do Município de Natal. <br>
+                    FUTURO, TENDÊNCIAS E O NOSSO PAPEL NA NOVA ECONOMIA
+                </li>
+                <br>
+                <li class="text-black-600 mt-4 text-xl">⭐️ <b>Katarina Alcântara</b> <br>
+                    Personal Business, Mentora de Carreiras e Treinadora Comportamental. <br>
+                    COMPETÊNCIAS INTERPESSOAIS QUE COLOCAM A MULHER CONTEMPORÂNEA EM POSIÇÃO DE DESTAQUE
+                </li>
+                <br>
+                <li class="text-black-600 mt-4 text-xl">⭐️ <b>Laíse Trindade</b><br>
+                    Nutricionista, Especialista em Neurociência aplicada ao Desenvolvimento Humano. <br>
+                    PRODUTIVIDADE ESTRATÉGICA E ALTA PERFORMANCE NA VIDA E NOS NEGÓCIOS
+                </li>
+                <br>
+                <li class="text-black-600 mt-4 text-xl">⭐️ <b>Priscila Barros</b> <br>
+                    Estrategista Digital e Mentora em Posicionamento Estratégico Digital.
+                </li>
+                <br>
+                <li class="text-black-600 mt-4 text-xl">⭐️ <b>Thaís Barbosa</b> <br>
+                    Mentora e Treinadora de Experts, Especialista em Método, Narrativas e Criação de Produtos e Serviços Educacionais. <br>
+                    COMO SUPERAR O MEDO DA EXPOSIÇÃO DIGITAL E TER A CORAGEM DE CRIAR UM POSICIONAMENTO AUTÊNTICO
+                </li>
+                <br>
+                <li class="text-black-600 mt-4 text-xl">⭐️ <b>Aline Chacon</b> <br>
+                    Educadora e Mentora de Mulheres que buscam viver sua autenticidade. <br>
+                    MULHER REAL E CONTEMPORÂNEA: LIBERTE-SE DE QUEM VOCÊ NÃO É PARA VIVER SUA VERDADEIRA IDENTIDADE
+                </li>
+                <br>
+                <li class="text-black-600 mt-4 text-xl">⭐️ <b>Ísis Moreira</b> <br>
+                    Treinadora de Negócios e Espiritualidade, com mais de 20 mil alunos treinados em Marketing Digital e Desenvolvimento Pessoal. <br>
+                    DESENVOLVA INTENCIONALMENTE UMA EXISTÊNCIA DE ABUNDÂNCIA
+                </li>
+                <br>
+                <p class="text-black-600 mt-4 text-xl">Venha fazer parte desse momento que irá marcar a história de muitas mulheres.</p>
+                <p class="text-black-600 mt-4 text-xl"><b>Vamos todas juntas!</b></p>
+                </ul>
             </div>
         </div>
     </section>
@@ -311,3 +292,4 @@
     </footer>
 </body>
 </html>
+<?php /**PATH C:\Users\gemen\OneDrive\Documentos\Projetos\mulheres\resources\views/evento.blade.php ENDPATH**/ ?>
